@@ -3,7 +3,7 @@
 
 int main ()
 {
-    int result,sum=0,n,m,d;
+    int result,sum=0,n,m;
     int div = 10,counter = 0,number;
 
     printf("Enter the integer:");
