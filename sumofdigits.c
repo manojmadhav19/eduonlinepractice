@@ -14,8 +14,7 @@ int main ()
         div *= 10;          
         counter++;                            /* Count the number of digits in the number */
     }
-    printf("Number of digits:%d\n",counter);  
-
+  
     for(int i=0;i<counter;i++){
         m = number%10;
         sum += m;                             /* Calculate the sum of digits in the number */
